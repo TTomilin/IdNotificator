@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-8992a0abec18ce4fa15604d02f490be4b3aa1800.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-14010d4ce958673b3eeb41ef990c2804ad4d3e5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-d4b227c7bdc0c47a3d7b8435558471d6f9d8e8c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-be55fce5619023ab28490b10e1e0bf64627b82d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-dc05d9b4438a5f8b6c81e19ddafa7a14ae1fd15d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-b451471820ca6c34cf6ebaca96792258f4a35fd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-760f04728529b9505dd1d01c8d83ea3e69697b90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.bignerdranch.android\expandablerecyclerview\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f5eeb4583102dd6771ab71bc8f0c6965548dd3e0">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-f0373b62aad74c51469c1bd977032f3dc9dfe96c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd688796dadc28f7f95db229cbfdaf91ebbb0d61">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-3708bbb7181e0c1ca874d2f3cb59bd7aa85c6bdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-661853ad07ab53880f5be1c0cf01b0a517619560.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-eac9e76e404c35412bf0cf12a5c41e235646bcc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-5a96ef385f841c71d96905c636cf2bcf83533e78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-05576c061ce4d002745bce4199dd337ecda26d7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-dfcc6bf000118317c22128b2fd648857b1b77cb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-ee3f72e6c42e4ba4f7c051aa05eb7d2c9c6d2856.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-34e06ef16c14d38507854f41e32e64c14925ecd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-7c347cf3d4620ca7ed875ec67bda378245cf4947.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-6d000a8df0fa8fa520b831fd453a8f5af05a9e2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-88340918ec8d7a293a008ed23db66f5bd98f25f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-1f2e116069f9680bc591001361f2dd3cd9884184.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-299c79a41b61340ca92f62c25dcc7be9f6ceaeeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-ede614d89212222a8351ad99f3bdd84d3b3ae7a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5305936738497fe4a5d89fc4f13015931c0fd402">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-62ba8944f5ccb0733e1a6773abe40bd682488ddd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-dedccd1bac65ea872158ebe7ccbb23fd2e340394.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-ac1b60e18c7f25d89b5c2ba675991c458cf50ad1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-82ac7b9cfc9ee9a8bb59cda9ea67da3b76c0aa78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-5b3239b33abf5a21d548ade9413a7c70cb6354d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-1874fc8b1e1adaf60eb3fcf38095b064cdda6762.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-ee62da265b3bf8028e0468e82e1205e6f2d44fc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-eea709bc6c4f460debc94a7f54e98c68c54a1490.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-b00f46f6115c5d218f203272794163c83dba1514.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-e95520ccccd065d4a69cf8b89e1542696105a83f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-308300e4b0e682db0ed4a195f3d9cc4f26962312.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-b96fa8a7d63f7f86e2ef2c457c4bfa54e6d5cb97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-6a0d386bc2890815c2f23eceb0ace524580ef48c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Tristan\IdeaProjects\IdNotificator\app\build\intermediates\pre-dexed\debug\classes-bc5b8752b504526c0f77d19f931ab8216b76c842.jar" />
+    </item>
+
+</items>

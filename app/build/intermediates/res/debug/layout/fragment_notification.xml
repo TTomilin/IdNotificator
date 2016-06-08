@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:id="@+id/fragment_notification"
+             tools:context="myapplication.activity.NotificationFragment">
+
+    <include
+            android:id="@+id/header_notification"
+            layout="@layout/header_notification" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/header_notification"/>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Tristan/IdeaProjects/IdNotificator/app/src/main/res/layout/fragment_notification.xml -->

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="60dp"
+              android:id="@+id/item_notification"
+              android:paddingLeft="16dp"
+              android:paddingRight="16dp"
+              android:orientation="horizontal"
+              android:background="?android:attr/selectableItemBackground"
+              android:focusable="true"
+              android:clickable="true"
+              android:foreground="?android:attr/selectableItemBackground"
+              android:weightSum="5">
+
+    <RelativeLayout android:layout_width="30dp"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/certificate_status"
+                android:src="@drawable/ic_check_circle"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/transaction_type"
+                android:src="@drawable/ic_fingerprint"
+                android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/transaction_method"
+                android:src="@mipmap/mobile_id"
+                android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/service_provider"
+                android:src="@mipmap/seb_logo"
+                android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+    <TextView
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:textSize="10sp"
+            android:text="Date"
+            android:id="@+id/created_at"
+            android:gravity="center_vertical|right"
+            android:elevation="5dp"
+            android:layout_weight="1"/>
+</LinearLayout>
